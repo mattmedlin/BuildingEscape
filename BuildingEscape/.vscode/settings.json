@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"C:/Users/mattm/OneDrive/Documents/Unreal Projects/BuildingEscape/BuildingEscape/.vscode": true,
+		"C:/Users/mattm/OneDrive/Documents/Unreal Projects/BuildingEscape/BuildingEscape/Content": true,
+		"C:/Users/mattm/OneDrive/Documents/Unreal Projects/BuildingEscape/BuildingEscape/DerivedDataCache": true,
+		"C:/Users/mattm/OneDrive/Documents/Unreal Projects/BuildingEscape/BuildingEscape/Intermediate": true,
+		"C:/Users/mattm/OneDrive/Documents/Unreal Projects/BuildingEscape/BuildingEscape/Saved": true
+	}
+}
